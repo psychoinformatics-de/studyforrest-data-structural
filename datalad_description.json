@@ -2,7 +2,7 @@
   "Name": "studyforrest structural data",
   "BIDSVersion": "TODO",
   "DatasetType": "raw",
-  "License": "CC0",
+  "License": "PDDL",
   "Authors": [
         "Michael Hanke",
         "Falko R. Kaule",
