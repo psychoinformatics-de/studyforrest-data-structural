@@ -1,0 +1,48 @@
+# Metadata for DOI registration according to DataCite Metadata Schema 4.1.
+# For detailed schema description see https://doi.org/10.5438/0014
+
+authors:
+  - firstname: Michael
+    lastname: Hanke
+    id: "ORCID:0000-0001-6398-6370"
+
+title: Studyforrest Structural MRI scans
+
+description: |
+    "This dataset contains T1 and T2 weighted MRI scans, susceptibility weighted
+     images, and diffusion imaging scans. These data are suitable for analyses
+     of brain structure.
+
+     For more information about the project visit: http://studyforrest.org"
+
+keywords:
+  - Neuroscience
+  - Studyforrest
+
+
+license:
+  name: "Open Data Commons Public Domain Dedication and License (PDDL)"
+  url: "https://opendatacommons.org/licenses/pddl/"
+
+
+# Related publications. reftype might be: IsSupplementTo, IsDescribedBy, IsReferencedBy.
+# Please provide digital identifier (e.g., DOI) if possible.
+# Add a prefix to the ID, separated by a colon, to indicate the source.
+# Supported sources are: DOI, arXiv, PMID
+# In the citation field, please provide the full reference, including title, authors, journal etc.
+references:
+  #- id: "doi:10.1038/sdata.2014.3"
+  #  reftype: "IsSupplementTo"
+  #  citation: "Hanke, M., Baumgartner, F., Ibe, P. et al. A high-resolution 7-Tesla fMRI dataset from complex natural stimulation with an audio movie. Sci Data 1, 140003 (2014)."
+
+  - id: "doi:10.1038/sdata.2014.50"
+    reftype: "IsSupplementTo"
+    citation: "Forstmann, B. U., Keuken, M. C., Schafer, A., Bazin, P. L., Alkemade, A., Turner, R. (2014). Multi-modal ultra-high resolution structural 7-Tesla MRI data repository. Scientific Data, 1, 140050."
+
+
+# Resource type. Default is Dataset, other possible values are Software, Image, Text.
+resourcetype: Dataset
+
+
+# Do not edit or remove the following line
+templateversion: 1.2
