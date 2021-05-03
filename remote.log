@@ -1,0 +1,2 @@
+6ddf702e-957a-497a-8c5c-b00776c886b1 autoenable=true location=http://psydata.ovgu.de/studyforrest/structural/.git name=mddatasrc type=git timestamp=1453279888.043104s
+ca40d800-08d6-4f8e-8085-1ed0be213941 archive-id=1882e2e6-fbbf-4ade-a65f-3a1615235f51 autoenable=true encryption=none externaltype=ora name=inm7-storage push-url=ria+ssh://bulk1.htc.inm7.de/ds/studyforrest/srv type=external url=ria+http://studyforrest.ds.inm7.de timestamp=1619610362.512272175s
