@@ -6,7 +6,21 @@ authors:
     lastname: Hanke
     id: "ORCID:0000-0001-6398-6370"
 
+  - firstname: Adina
+    lastname: Wagner
+    id: "ORCID:0000-0003-2917-3450"
+
+  - firstname: Laura
+    lastname: Waite
+    id: "ORCID:0000-0003-2213-7465"
+    
+  - firstname: Christian
+    lastname: Mönch
+    id: "ORCID:0000-0002-3092-0612§"
+
+    
 title: Studyforrest Structural MRI scans
+
 
 description: |
     "This dataset contains T1 and T2 weighted MRI scans, susceptibility weighted
@@ -14,6 +28,7 @@ description: |
      of brain structure.
 
      For more information about the project visit: http://studyforrest.org"
+
 
 keywords:
   - Neuroscience
@@ -31,10 +46,6 @@ license:
 # Supported sources are: DOI, arXiv, PMID
 # In the citation field, please provide the full reference, including title, authors, journal etc.
 references:
-  #- id: "doi:10.1038/sdata.2014.3"
-  #  reftype: "IsSupplementTo"
-  #  citation: "Hanke, M., Baumgartner, F., Ibe, P. et al. A high-resolution 7-Tesla fMRI dataset from complex natural stimulation with an audio movie. Sci Data 1, 140003 (2014)."
-
   - id: "doi:10.1038/sdata.2014.50"
     reftype: "IsSupplementTo"
     citation: "Forstmann, B. U., Keuken, M. C., Schafer, A., Bazin, P. L., Alkemade, A., Turner, R. (2014). Multi-modal ultra-high resolution structural 7-Tesla MRI data repository. Scientific Data, 1, 140050."
